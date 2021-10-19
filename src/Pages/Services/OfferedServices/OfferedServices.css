@@ -1,0 +1,8 @@
+.department{
+    background-color: rgba(105,190,0,.85);
+    padding: 15px 0px;
+}
+.listItem{
+    list-style: none;
+    line-height: 3
+}
