@@ -36,7 +36,7 @@ const Services = () => {
 
                 </div>
                 <div className="col-lg-4">
-                    <img width="360" height="253" src="http://www.checkupbd.com/img/medical_services.jpg" alt="" />
+                    <img width="360" height="253" src="https://www.checkupbd.com/img/medical_services.jpg" alt="" />
                 </div>
             </div >
         </div >
