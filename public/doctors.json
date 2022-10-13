@@ -10,7 +10,7 @@
         "fees": 800,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrASMJahed.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/N28Q9Rd/Dr-ASMJahed.webp"
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
         "fees": 900,
         "study": "Chittagong Medical",
         "chamber": "Epic Healthcare",
-        "img": "https://www.epichcl.com/public/storage/doctors/August2021/t48dC0WU4M03vTHXKpXz.png"
+        "img": "https://i.ibb.co/SJgPzQR/Prabir-Kumar-Das.png"
     },
     {
         "id": 3,
@@ -39,7 +39,7 @@
         "fees": 500,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRafiqulHasan-Nephrology.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/z792gg5/Rafiqul-Hasan.webp"
     },
     {
         "id": 4,
@@ -52,7 +52,7 @@
         "fees": 700,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i2.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMuslimUddinSabuj-Paediatrics.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/41Vqv2K/Muslim-Uddin-Sabuj.webp"
     },
     {
         "id": 5,
@@ -66,7 +66,7 @@
         "fees": 500,
         "study": "Dhaka Medical",
         "chamber": "Epic Healthcare",
-        "img": "https://www.epichcl.com/public/storage/doctors/August2021/KBlifRGHod6JGLX1qWFX.jpg"
+        "img": "https://i.ibb.co/2nYYvNf/Probal-Chakraborty.jpg"
     },
     {
         "id": 6,
@@ -81,7 +81,7 @@
         "fees": 500,
         "study": "Rangpur Medical",
         "chamber": "Parkview",
-        "img": "https://i2.wp.com/parkview.com.bd/wp-content/uploads/2019/10/merina-arjumand.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/TmmtvX9/merina-arjumand.webp"
     },
     {
         "id": 7,
@@ -97,7 +97,7 @@
         "fees": 700,
         "study": "Coxsbazar Medical",
         "chamber": "Parkview",
-        "img": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrIstiakAhmed-Medicine.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/hd6GckW/Dr-Istiak-Ahmed-Medicine.webp"
     },
     {
         "id": 8,
@@ -114,7 +114,7 @@
         "fees": 900,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i0.wp.com/parkview.com.bd/wp-content/uploads/2019/08/ProfRezaulMonno-Paed.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/vdX5rnr/Prof-Rezaul-Monno-Paed.webp"
     },
     {
         "id": 9,
@@ -128,7 +128,7 @@
         "fees": 700,
         "study": "Chittagong Medical",
         "chamber": "Epic Healthcare",
-        "img": "https://www.epichcl.com/public/storage/doctors/August2021/2MysutTdy8GWLqLb29wa.png"
+        "img": "https://i.ibb.co/qxnQb3n/Saydul-Alam-Rajib.png"
     },
     {
         "id": 10,
@@ -143,7 +143,7 @@
         "fees": 500,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i2.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrWakilAhmed-orthopedics.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/W23w2zt/Dr-Wakil-Ahmed-orthopedics.webp"
     },
     {
         "id": 11,
@@ -157,7 +157,7 @@
         "fees": 800,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i2.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrRezaulKarim-Medicine.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/rwjBTbX/Dr-Rezaul-Karim-Medicine.webp"
     },
     {
         "id": 12,
@@ -171,7 +171,7 @@
         "fees": 500,
         "study": "Rangpur Medical",
         "chamber": "Parkview",
-        "img": "https://i2.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrShahAlam-Paedia.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/h8QVkhr/Dr-Shah-Alam-Paedia.webp"
     },
     {
         "id": 13,
@@ -185,6 +185,6 @@
         "fees": 500,
         "study": "Chittagong Medical",
         "chamber": "Parkview",
-        "img": "https://i2.wp.com/parkview.com.bd/wp-content/uploads/2018/09/DrMahmudurRahman-orthopedics.jpg?fit=600%2C600&ssl=1"
+        "img": "https://i.ibb.co/wrZqpLT/Dr-Mahmudur-Rahman-orthopedics.webp"
     }
 ]

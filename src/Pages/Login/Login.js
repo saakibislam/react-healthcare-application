@@ -58,9 +58,9 @@ const Login = () => {
                         <button onClick={handleGoogleLogin} className="btn btn-lg btn-outline-dark px-4 mx-2">Google</button>
                     </div>
                     <div>
-                        <input className="inputField" type="text" name="email" placeholder="Enter your email" autoComplete="off" />
+                        <input className="inputField fs-sm" type="text" name="email" placeholder="Enter your email" autoComplete="off" />
                         <br />
-                        <input className="inputField" type="password" name="password" placeholder="Type password" />
+                        <input className="inputField fs-sm" type="password" name="password" placeholder="Type password" />
                         <p>New to Health Care? <span className="text-primary" onClick={() => { setNewUser(true) }}>Create Account</span></p>
                     </div>
                     <button className="btn btn-primary px-5 mt-5 fs-4">Login</button>

@@ -6,23 +6,25 @@ const Services = () => {
             <div className="row my-5 text-start">
                 <h2>For General Patients</h2>
                 <div className="col-lg-8">
-                    <table class="table table-striped">
-                        <tr>
-                            <td>Pathology</td>
-                            <td>Bio-Chemistry</td>
-                        </tr>
-                        <tr>
-                            <td>Pathology</td>
-                            <td>Serology</td>
-                        </tr>
-                        <tr>
-                            <td>E.G.G</td>
-                            <td>Ultrasonography</td>
-                        </tr>
-                        <tr>
-                            <td>Echo Cardiagraphy</td>
-                            <td>Endoscopy</td>
-                        </tr>
+                    <table className="table table-sm table-borderless">
+                        <tbody>
+                            <tr>
+                                <td>Pathology</td>
+                                <td>Bio-Chemistry</td>
+                            </tr>
+                            <tr>
+                                <td>Pathology</td>
+                                <td>Serology</td>
+                            </tr>
+                            <tr>
+                                <td>E.G.G</td>
+                                <td>Ultrasonography</td>
+                            </tr>
+                            <tr>
+                                <td>Echo Cardiagraphy</td>
+                                <td>Endoscopy</td>
+                            </tr>
+                        </tbody>
                     </table>
                     <div className="my-4">
                         <h2>For Overseas Patient</h2>

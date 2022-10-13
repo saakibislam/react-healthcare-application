@@ -3,16 +3,25 @@ import { useParams } from 'react-router';
 
 const Doctor = () => {
     const { docId } = useParams();
-    const [doctors, setDoctros] = useState([]);
+    const [doctors, setDoctors] = useState([]);
 
     useEffect(() => {
-        fetch('https://mocki.io/v1/d66acfd9-3c3c-4535-b38e-7e6f59f9fd7f')
+        // https://mocki.io/v1/d66acfd9-3c3c-4535-b38e-7e6f59f9fd7f
+
+        fetch('https://mocki.io/v1/d2d17b56-dba9-4378-b806-8fac029fa84b')
             .then(response => response.json())
             .then(data => {
-                const matchedDoc = data.find(dc => dc.id == docId);
-                setDoctros(matchedDoc);
+                const matchedDoc = data.find(dc => dc.id.toString() === docId);
+                setDoctors(matchedDoc);
             })
     }, [docId])
+
+    if (!doctors) {
+        return <div className="spinner-border" role="status">
+            <span className="visually-hidden">Loading...</span>
+        </div>
+    }
+
     return (
         <section className="container my-5">
             <div className="row">
